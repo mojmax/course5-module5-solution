@@ -111,6 +111,13 @@ h3.menu-item-title {
   font-size: .9em;
   font-style: italic;
 }
+
+.signup-text {
+  font-size: .9em;
+  font-style: bold;
+  background-color: #e7e7e7;
+  color: #951c49;
+}
 /* END SINGLE CATEGORY PAGE */
 
 
